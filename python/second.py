@@ -8,5 +8,10 @@ def flatten_list(data):
         else:
             flat_list.append(element)
 
-flatten_list(data)
-print(flat_list)
+
+
+
+if __name__=='__main__':
+    flatten_list(data)
+    print(flat_list)
+    
